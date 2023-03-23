@@ -103,5 +103,8 @@
         "*.{js,ts,jsx,tsx}": [
             "yarn run:lint"
         ]
+    },
+    "peerDependencies": {
+        "@docusaurus/theme-common": "^2.3.1"
     }
 }
